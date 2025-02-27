@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
 
     environment:
-      name: production
+      name: workflow
       url: https://github.com
 
     # Steps represent a sequence of tasks that will be executed as part of the job
